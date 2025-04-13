@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: devops-app-c5
-        image: naveenkona/app:latest
+        image: naveenkona/app
         ports:
         - containerPort: 80
 --- 
